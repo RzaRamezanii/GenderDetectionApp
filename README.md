@@ -5,7 +5,7 @@ This face recognition web app is integrated with a machine learning model. Here 
 - **Course URL**: [Udemy](https://www.udemy.com/course/build-face-recognition-app-using-machine-learning-in-flask/?referralCode=E4241D27BEFE8D5E6C4D)
 
 ### Project Output
-<img src="static/predict/prediction_image.jpg" alt="Prediction Image" width="400" height="400">
+<img src="static/predict/prediction_image.jpg" alt="Prediction Image" width="500" height="550">
 
 ### Deployment
 Here are some possible free hosting services where you can deploy your web application for a live demo:
