@@ -15,10 +15,10 @@ Here are some possible free hosting services where you can deploy your web appli
 -  Netlify
 -  Vercel
 -  Firebase Hosting
-    Surge
-    Render
-    AWS Free Tier (limited usage)
-    Google Cloud Platform Free Tier (limited usage)
+-  Surge
+-  Render
+-  AWS Free Tier (limited usage)
+-  Google Cloud Platform Free Tier (limited usage)
 
 Each of these platforms offers different features and limitations, so you can choose based on your specific requirements and preferences.
 
