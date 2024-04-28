@@ -6,6 +6,7 @@ This face recognition web app is integrated with a machine learning model. Here 
 
 ### Project Output
 ![Predicted Image](static/predict/prediction_image.jpg)
+<img src="static/predict/prediction_image.jpg" alt="Image Description" width="300" height="200">
 
 ### Deployment
 Here are some possible free hosting services where you can deploy your web application for a live demo:
