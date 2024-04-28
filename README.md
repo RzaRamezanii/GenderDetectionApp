@@ -1,6 +1,6 @@
 # Face Recognition Web App
 
-This face recognition web app is integrated with a machine learning model. Here user can upload an image and our machine learning model will detect face and predict gender (Male or Female).
+This face recognition web app, built using Flask, is integrated with a Support Vector Machine (SVM) model. Users can upload an image, and our SVM model will detect faces and predict the gender (Male or Female).
 
 - **Course URL**: [Udemy](https://www.udemy.com/course/build-face-recognition-app-using-machine-learning-in-flask/?referralCode=E4241D27BEFE8D5E6C4D)
 
